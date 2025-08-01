@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zafarebad/Predicting-Heart-Disease-using-Machine-Learning/blob/main/heart_disease_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zafarebad/Predicting-Heart-Disease-using-Machine-Learning/blob/main/heart-disease-classification.ipynb)
 
 
 # Predicting-Heart-Disease-using-Machine-Learning
