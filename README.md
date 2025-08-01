@@ -60,11 +60,3 @@ To build a machine learning model that can classify whether a patient has heart 
 - Scikit-learn
 - Jupyter Notebook
 
----
-
-## ▶️ How to Run
-
-1. Clone the repository:
-
-   ```bash
-  http://localhost:8888/notebooks/Desktop/Heart%20Disease%20Project/heart-disease-classification.ipynb
