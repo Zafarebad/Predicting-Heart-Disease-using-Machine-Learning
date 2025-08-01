@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zafarebad/Predicting-Heart-Disease-using-Machine-Learning/blob/main/heart_disease_prediction.ipynb)
+
+
 # Predicting-Heart-Disease-using-Machine-Learning
 This project is an end-to-end machine learning pipeline to predict the presence of heart disease in patients based on medical attributes. The goal is to use classification algorithms to build a predictive model and evaluate its performance using appropriate metrics.
 
